@@ -1,7 +1,6 @@
-# supply-chain-inventory-analysis
-An Excel-based supply chain inventory analysis project focused on data cleaning, inventory management, stock status, supplier performance, and restocking insights.
-
 # Supply Chain Inventory Analysis
+
+An Excel-based supply chain inventory analysis project focused on data cleaning, inventory management, stock status, supplier performance, and restocking insights.
 
 ## Project Overview
 
@@ -55,6 +54,7 @@ Five pivot table analyses were created to answer key inventory management questi
 ## Interactive Dashboard
 
 An Excel dashboard was created to present the analysis visually. Two interactive slicers, Warehouse and Status, were added to allow users to filter the dashboard and explore inventory performance.
+![Supply Chain Inventory Dashboard](Dashboard.png)
 
 ## Key Insights
 
@@ -81,6 +81,6 @@ This project demonstrates how Microsoft Excel can be used to clean, analyse, and
 
 ## Project Files
 
-- [Excel Workbook](
+- [Excel Workbook](https://github.com/Christy-portfolio/supply-chain-inventory-analysis/blob/main/Supply_Chain_Inventory_Analysis.xlsx)
 
 - [Dashboard Image](https://github.com/Christy-portfolio/supply-chain-inventory-analysis/blob/main/Dashboard.png)
