@@ -82,4 +82,5 @@ This project demonstrates how Microsoft Excel can be used to clean, analyse, and
 ## Project Files
 
 - [Excel Workbook](
-- [Dashboard Image](
+
+- [Dashboard Image](https://github.com/Christy-portfolio/supply-chain-inventory-analysis/blob/main/Dashboard.png)
